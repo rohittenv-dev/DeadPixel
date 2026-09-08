@@ -1,0 +1,7 @@
+{
+  "name": "LOST & FOUND",
+  "description": "An interactive mystery archive with DEADPIXEL aesthetic, uncovering connected artifacts from an abandoned city.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
